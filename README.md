@@ -15,6 +15,6 @@ Please use the following citation
   Booktitle = {ICASSP 2019, IEEE International Conference on Acoustics, Speech, and Signal Processing},
   Address = {Brighton, UK},
   Month = {April},
-  Year = {2019}
+  Year = {2019},
 }
 ```
