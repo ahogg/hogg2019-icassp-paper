@@ -24,8 +24,7 @@ loglevel = logging.INFO
 init_logging(level=loglevel)
 
 #  set the input audio (EN2002a_D01-01_UNKNOWN meeting) or mfcc file and the speech activity detection file (optional).
-# data_dir = 'AMI/'
-data_dir = '/Users/aidanhogg/Library/CloudStorage/OneDrive-ImperialCollegeLondon/Documents/AMI/'
+data_dir = 'AMI/'
 show = 'EN2002a_D01-01_UNKNOWN'
 input_show = os.path.join(data_dir, 'audio', show + '.wav')
 input_sad = None
