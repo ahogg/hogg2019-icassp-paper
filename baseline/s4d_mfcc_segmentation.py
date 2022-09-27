@@ -1,3 +1,14 @@
+# S4D is an open source package for speaker diarization.
+# The aim of S4D is to provide an educational and efficient toolkit
+# for speaker diarization including the whole chain of treatment
+# that goes from the audio data to the analysis of the system performance.
+
+# Authors
+#    Sylvain Meignier
+#    Anthony Larcher
+#    Pierre-Alexandre Broux
+#    Florent Desnous
+
 from s4d.utils import *
 from s4d.diar import Diar
 from s4d import viterbi
